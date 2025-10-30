@@ -1,4 +1,3 @@
-## Hi there 👋
 # 🧠 Elxr Project Suite  
 **Engineering. Intelligence. Precision.**
 
