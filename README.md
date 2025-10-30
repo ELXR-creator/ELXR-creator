@@ -67,7 +67,6 @@ Every experiment contributes to mastery.
 - 🧩 [Kaggle](#)
 - 😤 [Hackerrank](#)
 - 📧 Contact: +917042590161
-- 🔗 [Email](jhapiyush.work@gmail.com)
 
 ---
 
