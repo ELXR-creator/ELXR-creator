@@ -63,9 +63,11 @@ Every experiment contributes to mastery.
 ---
 
 ## 🔗 Connect  
-- 🌐 [LinkedIn](#)  
-- 🧩 [Kaggle](#)  
-- 📧 Contact: *Coming soon*
+- 🌐 [LinkedIn](www.linkedin.com/in/jhapiyush006)  
+- 🧩 [Kaggle](#)
+- 😤 [Hackerrank](#)
+- 📧 Contact: +917042590161
+- 🔗 [Email](jhapiyush.work@gmail.com)
 
 ---
 
